@@ -1,6 +1,6 @@
 # 🍓 Raspberry Pi Hardware Interface & Sensor Control
 
-미래제품연구회 스터디를 통해 진행한 라즈베리파이(Raspberry Pi) 기반 임베디드 시스템 제어 및 센서 인터페이스 실습 아카이브입니다. 
+미래제품연구회 스터디를 통해 진행한 라즈베리파이(Raspberry Pi) 기반 임베디드 시스템 제어 및 센서 인터페이스 실습 아카이브입니다.
 Linux 환경에서 다양한 센서 데이터를 수집하고 외부 API 및 웹 스트리밍으로 연동하는 시스템 통합 과정을 다뤘습니다.
 
 ## 🛠 개발 환경 (Environment)
